@@ -5,3 +5,4 @@ You are free to use these contents, but please follow:
 - Do not use these contents for profit, they can only be used for personal reference.
 - Do not use these contents to do things that violate the user's local laws.
 - I have the right to control these contents and the final interpretation right.
+- I will not bear any legal responsibility, so do not use it for illegal purposes, the consequences are borne by you.
