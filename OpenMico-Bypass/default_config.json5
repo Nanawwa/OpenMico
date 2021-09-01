@@ -1,0 +1,8 @@
+{
+    "0x8167": { // mt8516
+        "var_1": 0xCC,
+        "payload": "mt8167_payload.bin",
+        "ptr_usbdl": 0xd2e4,
+        "ptr_da": 0xd7ac,
+    },
+}
